@@ -101,3 +101,6 @@ v1.1.1 -> v1.1.2
 
 v1.1.2 -> v1.1.3
   - fixed issue where interval trees for negative values could be wrong due to using relative error instead of absolute relative error
+
+v1.1.3 -> v1.1.4 
+  - mapp local version
